@@ -1,0 +1,7 @@
+*.NC
+*.nc
+*.ZIP
+*.zip
+111/
+ivm/
+.ipynb_checkpoints/
